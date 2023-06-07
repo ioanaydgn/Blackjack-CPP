@@ -242,6 +242,8 @@ Aceste funcții sunt probabil parte dintr-o implementare de clasă mai mare pent
     
     După înregistrare, programul se închide.
     
+    Important: Datele utilizatorului nu sunt în prezent salvate și încărcate.
+    
     ## 5**.    CONCLUZII**
     
     Jocul blackjack poate fi analizat și implementat în conformitate cu principiile OOP. Încapsularea permite organizarea datelor și a comportamentului în obiecte coezive, în timp ce moștenirea și polimorfismul facilitează reutilizarea și extensibilitatea codului. Aplicarea principiilor OOP pe blackjack îmbunătățește mentenabilitatea codului, modularitatea și separarea preocupărilor. Vizualizarea blackjack-ului printr-un obiectiv OOP, dezvoltatorii pot crea un sistem bine structurat și adaptabil, care să se alinieze celor mai bune practici din industrie.
